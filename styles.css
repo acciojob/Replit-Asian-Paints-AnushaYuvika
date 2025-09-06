@@ -16,13 +16,3 @@
     font-size: 24px;
     cursor: pointer;
 }
-#3.grid-item {
-	background-color: rgb(255, 0, 0);
-}
-#change_id {
-	background-color: rgb(255, 0, 0);
-}
-
-#reset_button {
-	background-color: rgb(0, 0, 0, 0);
-}
